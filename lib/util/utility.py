@@ -40,7 +40,7 @@ class utilFunctions:
 
   # forms a dictionary from the list of various entity types
 	def get_dict(self):
-		f = open('data/dict_list','r')
+		f = open('../data/dict_list','r')
 		files = f.readlines()
 		f.close()
 		final_dict = {}
@@ -48,7 +48,7 @@ class utilFunctions:
 		for filename in files:
 		#	print filename
 			filename = filename.strip()
-			f = open('data/'+filename, 'r')
+			f = open('../data/'+filename, 'r')
 			lines = f.readlines()
 			filename = filename.split('.')[0]
 			for line in lines:

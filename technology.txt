@@ -1,0 +1,126 @@
+apache hadoop
+hadoop
+apache lucene
+lucene
+abdera
+accumulo
+activemq
+allura
+ant
+apr
+archiva
+beehive
+bloodhound
+camel
+cloudstack
+cocoon
+commons
+continuum
+cassandra
+cayenne
+couchdb
+derby
+jdo
+torque
+directory
+excalibur
+felix
+flex
+forrest
+flume
+geronimo
+gradle
+gump
+harmony
+hivemind
+incubator
+jackrabbit
+jakarta
+james
+jclouds
+kafka
+labs
+lenya
+logging
+solr
+mahout
+marmotta
+maven
+mina
+mod_perl
+modperl
+mod perl
+mod_python
+mod python
+oodt
+ofbiz
+oozie
+openoffice
+pdfbox
+pivot
+poi
+portals
+santuario
+servicemix
+shale
+spamassassin
+stanbol
+stonehenge
+stratos
+struts
+subversion
+tapestry
+tika
+tcl
+tomcat
+traffic server
+uima
+velocity
+wave
+axis
+muse
+rampart
+tuscany
+wicket
+xalan
+xerces
+xmlbeans
+batik
+fop
+zookeeper
+cloud computing
+distributed systems
+information retrieval
+information extraction
+information retrieval and extraction
+big data
+database
+operating system
+data structures
+artificial intelligence
+automated reasoning
+computer vision
+natural language processing
+nlp
+ai
+machine learning
+robotics
+networking
+computer security
+cryptography
+computer architecture
+computer graphics
+image processing
+concurrency
+parallel computing
+distributed computing
+relational database
+data mining
+compiler
+compiler theory
+programming language theory
+formal methods
+algorithm design
+reverse engineering
+automata theory
+human computer interaction

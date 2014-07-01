@@ -1,0 +1,528 @@
+ibm
+accenture
+hewlett packard
+self employed
+ernst young
+pricewaterhousecoopers
+microsoft
+bank america
+deloitte
+oracle
+kpmg
+motorola
+ericsson
+hp
+us army
+merrill lynch
+cisco systems
+ibm global services
+dell
+wipro technologies
+capgemini
+tata consultancy services
+eds
+jpmorgan chase
+hsbc
+siemens
+sun microsystems
+intel
+procter gamble
+pfizer
+citigroup
+morgan stanley
+us navy
+alcatel lucent
+csc
+cognizant technology solutions
+deutsche bank
+johnson johnson
+wells fargo
+american express
+fidelity investments
+fidelity
+deloitte consulting
+nokia
+sprint
+lockheed martin
+ford motor company
+nortel
+glaxosmithkline
+cisco
+citibank
+tcs
+goldman sachs
+unilever
+credit suisse
+infosys technologies ltd
+oracle corporation
+jp morgan chase
+arthur andersen
+emc
+abn amro
+general electric
+vodafone
+nortel networks
+ing
+target
+thomson reuters
+general motors
+self
+lucent technologies
+google
+nokia siemens networks
+infosys
+unisys
+booz allen hamilton
+deloitte touche
+united states air force
+atos origin
+verizon
+hcl technologies
+hcl
+texas instruments
+lehman brothers
+ge healthcare
+honeywell
+novartis
+logica
+ubs
+saic
+bt
+kaiser permanente
+united states marine corps
+xerox
+citi
+usaf
+merck
+intel corporation
+digital equipment corporation
+home depot
+barclays capital
+ibm global business services
+adp
+mckinsey company
+symantec
+wells fargo bank
+bp
+pwc
+kraft foods
+schlumberger
+abbott laboratories
+best buy
+ge
+sanofi aventis
+shell
+verizon wireless
+computer sciences corporation
+bnp paribas
+t mobile
+bae systems
+bae
+united states navy
+bristol myers squibb
+ups
+astrazeneca
+philips
+bearingpoint
+raytheon
+verizon business
+enterprise rent a car
+walt disney company
+microsoft corporation
+eds an hp company
+hewitt associates
+ge capital
+mci
+jp morgan
+avaya
+boeing
+starbucks coffee company
+royal bank scotland
+standard chartered bank
+northrop grumman
+dhl
+pepsico
+agilent technologies
+ubs investment bank
+keller williams realty
+hp enterprise services
+medtronic
+nestle
+sprint nextel
+cgi
+convergys
+alcatel
+accenture technology solutions
+amgen
+wal mart
+gap inc
+amdocs
+3m
+bmw
+pfizer pharmaceuticals
+us bank
+capital one
+icici bank
+icici
+bhel
+boston scientific
+us air force
+qwest communications
+johnson controls
+eli lilly
+abb
+bell canada
+comcast
+adecco
+kpn
+jpmorgan
+marriott international
+electronic data systems
+apple inc
+metlife
+telstra
+schneider electric
+cb richard ellis
+exxonmobil
+washington mutual
+boeing company
+barclays bank
+state farm insurance
+cardinal health
+rabobank
+wells fargo home mortgage
+andersen consulting
+amazon com
+wachovia
+mtv networks
+aol
+chevron
+applied materials
+manpower
+getronics
+macy
+coca cola company
+compaq
+apple
+cable wireless
+nordstrom
+kelly services
+nike
+electronic arts
+t mobility
+ogilvy mather
+randstad
+northwestern mutual
+teksystems
+genentech
+robert half international
+boston consulting group
+gsk
+qualcomm
+jones lang lasalle
+coopers lybrand
+nbc universal
+price waterhouse
+mahindra satyam
+bbc
+dupont
+societe generale
+nielsen company
+price waterhouse coopers
+schering plough
+reuters
+time warner cable
+time warner
+ge energy
+european commission
+aig
+american airlines
+dell inc
+dell
+rockwell automation
+peace corps
+american red cross
+united airlines
+huawei
+cap gemini ernst young
+charles schwab
+tech mahindra
+flextronics
+bmc software
+apple computer
+cibc
+kpmg llp
+pwc consulting
+lexisnexis
+adobe systems
+nationwide insurance
+ncr
+wyeth
+acs
+prudential financial
+prudential
+grant thornton
+rbs
+fujitsu
+circuit city
+freescale semiconductor
+fifth third bank
+marsh
+world bank
+ge money
+amd
+computer associates
+logicacmg
+intuit
+delta air lines
+stmicroelectronics
+perot systems
+ernst young llp
+suntrust bank
+capgemini consulting
+bear stearns
+usmc
+lloyds banking group
+eastman kodak
+keane
+chrysler
+orange business services
+state street
+netapp
+ikon office solutions
+france telecom
+samsung electronics
+kimberly clark
+aiesec
+sapient
+bt global services
+walt disney world
+kpmg advisory
+unitedhealth group
+walgreens
+sungard
+cargill
+wyeth pharmaceuticals
+fannie mae
+juniper networks
+u s navy
+morgan stanley smith barney
+coca cola enterprises
+patni computer systems
+aflac
+wipro infotech ltd
+abn amro bank
+pitney bowes
+wachovia bank
+bain company
+baxter healthcare
+coldwell banker residential brokerage
+peoplesoft
+wipro
+xerox corporation
+allstate insurance
+mccann erickson
+u s army
+jacobs engineering
+farmers insurance
+ebay
+coldwell banker
+first data corporation
+sony
+kpmg audit
+sears holdings corporation
+bank new york mellon
+t wireless
+telus
+edward jones
+reliance communications
+ameriprise financial
+vmware
+united nations
+compuware
+axa
+british american tobacco
+bharti airtel limited
+monsanto
+abn amro bank n v
+fujitsu services
+halliburton
+diageo
+anz
+urs corporation
+barclays
+t systems
+colgate palmolive
+united states army
+rr donnelley
+basf
+general dynamics
+staples
+ncr corporation
+aetna
+fiserv
+quintiles
+h r block
+mckesson
+philips healthcare
+novell
+liberty mutual
+sogeti
+hdfc bank
+hdfc
+espn
+research in motion
+covidien
+comcast cable
+general mills
+mercer
+office depot
+u s department state
+national city bank
+fedex
+danone
+smith barney
+wachovia a wells fargo company
+delphi
+bloomberg
+satyam
+mphasis
+cap gemini
+telefonica
+ing bank
+private practice
+ubs wealth management
+various companies
+conocophillips
+american cancer society
+autodesk
+eli lilly company
+allstate
+wellpoint
+l oreal
+cox communications
+jwt
+3com
+motorola mobile devices
+dun bradstreet
+ch2m hill
+thermo fisher scientific
+eaton corporation
+ingram micro
+level 3 communications
+genpact
+dow chemical
+honeywell aerospace
+freddie mac
+rockwell collins
+whirlpool corporation
+steria
+ibm india pvt ltd
+abercrombie fitch
+aramark
+tyco electronics
+experian
+delphi automotive systems
+siemens ag
+pfizer inc
+p g
+aerotek
+ingersoll rand
+cadence design systems
+seagate technology
+reckitt benckiser
+l 3 communications
+renault
+tek systems
+nxp semiconductors
+boehringer ingelheim
+cisco systems inc
+caterpillar inc
+british airways
+a t kearney
+progressive insurance
+philips lighting
+lg electronics
+countrywide home loans
+cigna
+dimension data
+larsen toubro limited
+credit suisse first boston
+pearson education
+banco santander
+nhs
+philips medical systems
+zurich financial services
+merck sharp dohme
+fluor
+shell oil company
+thales
+national australia bank
+sas
+leo burnett
+bank america merrill lynch
+bayer healthcare
+international paper
+cerner corporation
+dhl express
+principal financial group
+td bank
+westpac
+satyam computer services limited
+accenture
+deloitte
+kearney
+cisco
+mckinsey
+ibm
+fiat
+bank america
+pfizer
+oracle
+microsoft
+amazon
+abbott
+siemens
+bain
+ubs
+apple
+kpmg
+barclays
+jp morgan
+philips
+ge
+wipro
+coca cola
+booz
+hp
+cognizant
+kraft
+verizon
+emc
+intel
+infosys
+salesforce
+merck
+lloyds
+roche
+blackrock
+adobe
+wells fargo
+shell
+bayer
+samsung
+robert half
+motorola
+ernst
+juniper
+sap
+amul
+ikea
+htc
+citi
+hsbc
+dhl
+merrill lynch
+facebook
+slideshare
+linkedin

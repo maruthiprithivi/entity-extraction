@@ -1,4 +1,0 @@
-entity-extraction
-=================
-
-intern project

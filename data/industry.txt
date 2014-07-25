@@ -1,0 +1,227 @@
+services
+information technology services
+information technology
+computer software
+financial services
+marketing
+marketing advertising
+advertising
+telecommunications
+real estate
+banking
+hospital health care
+health care
+hospital
+accounting
+management consulting
+insurance
+construction
+law practice
+human resources
+human resource
+hr
+higher education
+pharmaceuticals
+retail
+energy
+oil energy
+oil
+automotive
+research
+fitness
+health wellness
+health wellness fitness
+government administration
+internet
+design
+electrical electronic manufacturing
+electrical
+electronic manufacturing
+aviation
+consumer goods
+entertainment
+hospitality
+mechanical industrial engineering
+architecture planning
+architecture
+planning
+public relations
+legal services
+food beverages
+food
+beverages
+medical device
+medical practice
+recruiting
+staffing recruiting
+staffing
+logistics supply chain
+supply chain
+logistics
+biotechnology
+computer networking
+civil engineering
+computer hardware
+writing
+editing
+writing editing
+broadcast media
+media production
+chemicals
+environmental services
+graphic design
+publishing
+railroad
+transportation
+transportation trucking railroad
+trucking
+professional training
+music
+semiconductors
+consumer services
+investment management
+defense space
+space
+defense
+airlines
+airlines aviation
+aerospace
+aviation aerospace
+information services
+apparel fashion
+fashion
+apparel
+utilities
+computer network security
+computer
+network security
+leisure
+leisure travel
+travel
+events services
+photography
+mental health care
+food production
+printing
+crafts
+arts crafts
+arts
+primary
+primary secondary
+secondary
+venture
+investment banking venture
+investment banking
+sports
+online publishing
+machinery
+wholesale
+building materials
+metals
+mining metals
+mining
+consumer electronics
+market research
+motion pictures
+film
+motion pictures film
+industrial automation
+religious institutions
+environment
+renewables
+renewables environment
+facilities services
+offshoring
+outsourcing
+outsourcing offshoring
+security
+security investigations
+investigations
+restaurants
+international trade development
+international trade
+fine art
+newspapers
+business supplies equipment
+business supplies
+equipment
+military
+government relations
+cosmetics
+e learning
+elearning
+executive office
+individual
+family services
+individual family services
+international affairs
+import export
+import
+export
+wireless
+textiles
+computer games
+furniture
+commercial real estate
+law enforcement
+capital markets
+public policy
+performing arts
+social organization
+civic social organization
+civic
+packaging containers
+packaging
+containers
+plastics
+venture capital
+maritime
+localization
+translation localization
+translation
+wine
+wine spirits
+spirits
+animation
+libraries
+luxury goods jewelry
+jewelry
+luxury goods
+fundraising
+farming
+paper forest products
+forest products
+paper
+public safety
+museums institutions
+institutions
+museums
+alternative medicine
+sporting goods
+political organization
+gambling casinos
+casinos
+gambling
+recreational facilities
+recreational facilities services
+veterinary
+warehousing
+philanthropy
+think tanks
+judiciary
+nanotechnology
+glass ceramics concrete
+concrete
+glass ceramics
+supermarkets
+dairy
+tobacco
+package
+freight delivery
+package freight delivery
+shipbuilding
+alternative dispute resolution
+railroad manufacture
+legislative office
+fishery
+ranching

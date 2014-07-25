@@ -189,7 +189,7 @@ class PorterStemmer:
         if self.ends("eed"):
             if self.m() > 0:
                 self.k = self.k - 1
-        elif (self.ends("ed") or self.ends("ing")) and self.vowelinstem():
+        elif self.ends("ed") and self.vowelinstem():
             self.k = self.j
             if self.ends("at"):   self.setto("ate")
             elif self.ends("bl"): self.setto("ble")
@@ -350,3 +350,6 @@ class PorterStemmer:
         #self.step4()
         #self.step5()
         return self.b[self.k0:self.k+1]
+
+p = PorterStemmer()
+print p.stem('marketing',0,len('marketing')-1)

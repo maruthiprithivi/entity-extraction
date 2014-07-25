@@ -1,0 +1,35 @@
+trainer	  training
+limited	  ltd
+art	  creative
+it	  technology tech
+manager	  supervisor head vp executive director
+engineer	  engineering developer
+affairs	  relations
+pharma	  pharmaceuticals
+district	  regional
+media	  public
+recruiter	  recruitment hr
+developer	  development
+construction	  project
+inc	  inc.
+product	  project
+global	  international
+finance	  financial accounting
+business	  project corporate
+comp	  computer
+internet	  online digital
+fb	  facebook
+graphic	  web
+bank	  banking
+care	  service
+audit	  auditor
+account	  sales
+planner	  planning coordinator
+trader	  trading
+qa	  test
+procurement	  sourcing
+client	  community
+advertising	  marketing
+laboratories	  labs
+orissa	odisha
+mumbai	bombay

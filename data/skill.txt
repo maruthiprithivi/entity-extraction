@@ -38,7 +38,7 @@ universities
 public relations
 lan
 policy
-requirements analysis
+requirement analysis
 healthcare
 databases
 organizing
@@ -48,6 +48,7 @@ writing
 coordination
 medical
 english
+economy
 negotiation
 sales management
 cost
